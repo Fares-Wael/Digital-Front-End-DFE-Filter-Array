@@ -1,0 +1,68 @@
+{E:/Digital_IC/SI Clash/DSP/DFE/cic_filter.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/cic_filter.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module cic_filter
+-- Compiling module compensation_fir
+
+Top level modules:
+	cic_filter
+	compensation_fir
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/CIC_Compensation_Chain.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/CIC_Compensation_Chain.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module CIC_Compensation_Chain
+
+Top level modules:
+	CIC_Compensation_Chain
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/IIR_BiQuad_Controllable.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/IIR_BiQuad_Controllable.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module IIR_BiQuad_Controllable
+
+Top level modules:
+	IIR_BiQuad_Controllable
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/IIR_Notch_Array_Controllable.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/IIR_Notch_Array_Controllable.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module IIR_Notch_Array_Controllable
+
+Top level modules:
+	IIR_Notch_Array_Controllable
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DFE_TOP
+
+Top level modules:
+	DFE_TOP
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/Control_Reg_File.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/Control_Reg_File.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Control_Reg_File
+
+Top level modules:
+	Control_Reg_File
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/coeff_even_rom_parallel.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/coeff_even_rom_parallel.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module coeff_even_rom_parallel
+-- Compiling module coeff_odd_rom_parallel
+-- Compiling module Frac_Deci
+
+Top level modules:
+	Frac_Deci
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/Clock_Generator_PH.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/Clock_Generator_PH.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Clock_Generator_PH
+
+Top level modules:
+	Clock_Generator_PH
+
+} {} {}} {E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP_tb.v} {1 {vlog -work work -vopt -stats=none {E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DFE_TOP_tb
+
+Top level modules:
+	DFE_TOP_tb
+
+} {} {}}

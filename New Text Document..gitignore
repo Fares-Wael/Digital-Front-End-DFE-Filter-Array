@@ -1,0 +1,16 @@
+# VS Code (IMPORTANT)
+.vscode/
+
+# Simulation / FPGA junk
+xsim.dir/
+work/
+.Xil/
+
+# Logs
+*.log
+*.jou
+*.wlf
+*.vcd
+
+# System files
+.DS_Store

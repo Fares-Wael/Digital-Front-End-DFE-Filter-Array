@@ -1,0 +1,323 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Digital_IC/SI Clash/DSP/IIR_Design
+T_opt
+!s110 1763751668
+V9aOkbmYJ?REGm`_KDJ72:0
+04 10 4 work DFE_TOP_tb fast 0
+=1-b44506be8b35-6920b6f4-26a-5450
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vCIC_Compensation_Chain
+Z2 !s110 1763751662
+!i10b 1
+!s100 C0iab85U7hnG:iP4zeXVd2
+I_o1TZQ]_SaXo1n9b9j0SQ3
+Z3 dE:/Digital_IC/SI Clash/DSP/DFE
+w1763747619
+8E:/Digital_IC/SI Clash/DSP/DFE/CIC_Compensation_Chain.v
+FE:/Digital_IC/SI Clash/DSP/DFE/CIC_Compensation_Chain.v
+!i122 189
+L0 7 55
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1763751662.000000
+!s107 E:/Digital_IC/SI Clash/DSP/DFE/CIC_Compensation_Chain.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/CIC_Compensation_Chain.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@c@i@c_@compensation_@chain
+vcic_filter
+R2
+!i10b 1
+!s100 I@d9diJLngGVGNXGJfF9f2
+IbTb]AK6fc3B2J]:RgA0b;0
+R3
+Z8 w1763749908
+Z9 8E:/Digital_IC/SI Clash/DSP/DFE/cic_filter.v
+Z10 FE:/Digital_IC/SI Clash/DSP/DFE/cic_filter.v
+!i122 190
+L0 8 128
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 E:/Digital_IC/SI Clash/DSP/DFE/cic_filter.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/cic_filter.v|
+!i113 0
+R7
+R1
+vClock_Generator_PH
+R2
+!i10b 1
+!s100 >QXkIK=hC4FSG@Ahf;oBC3
+IhYnR;zaM@aj^i;Q][a>=`1
+R3
+w1763746745
+8E:/Digital_IC/SI Clash/DSP/DFE/Clock_Generator_PH.v
+FE:/Digital_IC/SI Clash/DSP/DFE/Clock_Generator_PH.v
+!i122 191
+L0 6 16
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/Digital_IC/SI Clash/DSP/DFE/Clock_Generator_PH.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/Clock_Generator_PH.v|
+!i113 0
+R7
+R1
+n@clock_@generator_@p@h
+vcoeff_even_rom_parallel
+R2
+!i10b 1
+!s100 >52Wd07UinQ6YT1IZ9KN>3
+ID8A=JUY_D5`;61T;P58AM1
+R3
+Z13 w1763747808
+Z14 8E:/Digital_IC/SI Clash/DSP/DFE/coeff_even_rom_parallel.v
+Z15 FE:/Digital_IC/SI Clash/DSP/DFE/coeff_even_rom_parallel.v
+!i122 192
+L0 8 263
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z16 !s107 E:/Digital_IC/SI Clash/DSP/DFE/coeff_even_rom_parallel.v|
+Z17 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/coeff_even_rom_parallel.v|
+!i113 0
+R7
+R1
+vcoeff_odd_rom_parallel
+R2
+!i10b 1
+!s100 15UefM3O6Rk71C84MeleS0
+ITdP:_7e?z:5fTBX;F_@Ja1
+R3
+R13
+R14
+R15
+!i122 192
+L0 276 263
+R4
+R5
+r1
+!s85 0
+31
+R6
+R16
+R17
+!i113 0
+R7
+R1
+vcompensation_fir
+R2
+!i10b 1
+!s100 h[A@VP9CIjW[AzF:I?@QA1
+IG^0A2<T??MH_b2?GNaGnC2
+R3
+R8
+R9
+R10
+!i122 190
+L0 140 79
+R4
+R5
+r1
+!s85 0
+31
+R6
+R11
+R12
+!i113 0
+R7
+R1
+vControl_Reg_File
+R2
+!i10b 1
+!s100 La@2<;AUdb:Z><]YWYL[a3
+I?S?G;kiI[Q3h>G`nDikLe1
+R3
+w1763748108
+8E:/Digital_IC/SI Clash/DSP/DFE/Control_Reg_File.v
+FE:/Digital_IC/SI Clash/DSP/DFE/Control_Reg_File.v
+!i122 193
+L0 5 111
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/Digital_IC/SI Clash/DSP/DFE/Control_Reg_File.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/Control_Reg_File.v|
+!i113 0
+R7
+R1
+n@control_@reg_@file
+vDFE_ISOLATION_tb
+!s110 1763749804
+!i10b 1
+!s100 33M<3C<M7a:`S]fUa[H=81
+I`^_=kh5ekHnVSnDJZDKn11
+R3
+w1763749626
+Z18 8E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP_tb.v
+Z19 FE:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP_tb.v
+!i122 134
+L0 6 168
+R4
+R5
+r1
+!s85 0
+31
+!s108 1763749804.000000
+Z20 !s107 E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP_tb.v|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP_tb.v|
+!i113 0
+R7
+R1
+n@d@f@e_@i@s@o@l@a@t@i@o@n_tb
+vDFE_TOP
+R2
+!i10b 1
+!s100 DL20fT@cgV6LVE=RoAMT62
+Ie`]2MBdnaM7jKGG:93?0G3
+R3
+w1763748259
+8E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP.v
+FE:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP.v
+!i122 194
+L0 16 132
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/DFE_TOP.v|
+!i113 0
+R7
+R1
+n@d@f@e_@t@o@p
+vDFE_TOP_tb
+R2
+!i10b 1
+!s100 :Dg=1283R=znWN@HmHYIN1
+IYeGH<DIECNKMURRio;6W:0
+R3
+w1763751645
+R18
+R19
+!i122 195
+L0 5 220
+R4
+R5
+r1
+!s85 0
+31
+R6
+R20
+R21
+!i113 0
+R7
+R1
+n@d@f@e_@t@o@p_tb
+vFrac_Deci
+R2
+!i10b 1
+!s100 JHAA_jk8a@jeFAo[6cT883
+I26FaKEc?H=zC]RZOiWd5=1
+R3
+R13
+R14
+R15
+!i122 192
+L0 545 243
+R4
+R5
+r1
+!s85 0
+31
+R6
+R16
+R17
+!i113 0
+R7
+R1
+n@frac_@deci
+vIIR_BiQuad_Controllable
+R2
+!i10b 1
+!s100 GzSMgRYh;LOOcCHlD52K_2
+IOaBHfBP5Xi38;WUAL_dPR3
+R3
+w1763748773
+8E:/Digital_IC/SI Clash/DSP/DFE/IIR_BiQuad_Controllable.v
+FE:/Digital_IC/SI Clash/DSP/DFE/IIR_BiQuad_Controllable.v
+!i122 196
+L0 6 76
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/Digital_IC/SI Clash/DSP/DFE/IIR_BiQuad_Controllable.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/IIR_BiQuad_Controllable.v|
+!i113 0
+R7
+R1
+n@i@i@r_@bi@quad_@controllable
+vIIR_Notch_Array_Controllable
+R2
+!i10b 1
+!s100 zjoB31H7D:gI7558Qk`=i1
+I1M9Z]6kGV5EmgYKY1l98Z2
+R3
+w1763748721
+8E:/Digital_IC/SI Clash/DSP/DFE/IIR_Notch_Array_Controllable.v
+FE:/Digital_IC/SI Clash/DSP/DFE/IIR_Notch_Array_Controllable.v
+!i122 197
+L0 7 58
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/Digital_IC/SI Clash/DSP/DFE/IIR_Notch_Array_Controllable.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/DFE/IIR_Notch_Array_Controllable.v|
+!i113 0
+R7
+R1
+n@i@i@r_@notch_@array_@controllable

@@ -1,0 +1,80 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Digital_IC/SI Clash/DSP/Design
+T_opt
+!s110 1763745739
+VLn7I0bPaomS@ejV663[7R1
+04 6 4 work IIR_tb fast 0
+=1-b44506be8b35-69209fca-3ae-6260
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vIIR_tb
+Z2 !s110 1763745734
+!i10b 1
+!s100 LU6Nha[Z^fU9ZG8HAADai1
+I]Q1M:`1:Ij@l73U?3Go:03
+Z3 dE:/Digital_IC/SI Clash/DSP/IIR_Design
+w1763656538
+8E:/Digital_IC/SI Clash/DSP/IIR_Design/IIR_tb.v
+FE:/Digital_IC/SI Clash/DSP/IIR_Design/IIR_tb.v
+!i122 28
+L0 3 99
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1763745734.000000
+!s107 E:/Digital_IC/SI Clash/DSP/IIR_Design/IIR_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/IIR_Design/IIR_tb.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@i@i@r_tb
+vNotch_IIR
+R2
+!i10b 1
+!s100 omza42K@o8jdl0V?5WV]I3
+I0D;`zZm@KbFJ<3H9ALM>Z3
+R3
+w1763745730
+8E:/Digital_IC/SI Clash/DSP/IIR_Design/Notch_IIR.v
+FE:/Digital_IC/SI Clash/DSP/IIR_Design/Notch_IIR.v
+!i122 29
+L0 1 84
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/Digital_IC/SI Clash/DSP/IIR_Design/Notch_IIR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital_IC/SI Clash/DSP/IIR_Design/Notch_IIR.v|
+!i113 0
+R7
+R1
+n@notch_@i@i@r
